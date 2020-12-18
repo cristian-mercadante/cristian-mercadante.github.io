@@ -2,7 +2,11 @@
     font-size: 15pt;
 }
 
-a {
+A {
     color:inherit;
     text-decoration: none;
+}
+
+.icon {
+    font-size: 40pt;
 }
